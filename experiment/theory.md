@@ -76,7 +76,7 @@ $$V_{o~(rms)} = \frac {V_{m}}{\sqrt {2}} \left[ \frac {1}{\pi}\left(\pi - \alpha
 
 <center>
 
-$$I_{o~(rms)} = \frac {V_{o~(rms)}}{R} =\frac {V_{m}}{\sqrt {2}R} \left[ \frac {1}{\pi}\left(\pi - \alpha + \frac {sin 2\alpha}{2}\right) \right]^{\frac {1}{2}}.......(4)$$
+$$I_{o~(rms)} = \frac {V_{o~(rms)}}{R} = \frac {V_{m}}{\sqrt {2} R} \left[\frac {1}{\pi}\left(\pi - \alpha + \frac {sin 2\alpha}{2}\right) \right]^{\frac {1}{2}}.......(4)$$
 
 </center>
 
@@ -108,7 +108,7 @@ The average and rms of bridge output voltage are,<br><br>
 
 <center>
 
-$$V_{o} = \frac {2}{2\pi} \int_{\alpha}^{\pi} V_{m}sinwt ~ dwt ~=~\frac {2V_{m}}{2\pi}[- cos\omega t]_{\alpha}^{\pi}~=~\frac {V_{m}}{\pi}(1 + cos\alpha).......(5)$$
+$$V_{o} = \frac {2}{2\pi} \int_{\alpha}^{\pi} V_{m}sinwt ~ dwt = \frac {2V_{m}}{2\pi}[- cos\omega t]_{\alpha}^{\pi} = \frac {V_{m}}{\pi}(1 + cos\alpha).......(5)$$
 
 </center>
 
@@ -160,7 +160,7 @@ The circuit consists of two thyristors, two diodes, and a freewheeling diode acr
 The average and rms of bridge output voltage are,<br>
 <center>
 
-$$V_{o} = \frac {2}{2\pi} \int_{\alpha}^{\pi} V_{m}\, sinwt\, dwt \,=\,\frac {2V_{m}}{2\pi}[- cos\omega t]_{\alpha}^{\pi}\,=\,\frac {V_{m}}{\pi}(1 + cos\alpha) .......(9)$$
+$$V_{o} = \frac {2}{2\pi} \int_{\alpha}^{\pi} V_{m} ~ sinwt ~ dwt = \frac {2V_{m}}{2\pi}[- cos\omega t]_{\alpha}^{\pi} = \frac {V_{m}}{\pi}(1 + cos\alpha) .......(9)$$
 
 </center>
 
