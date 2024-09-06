@@ -108,7 +108,7 @@ The average and rms of bridge output voltage are,<br><br>
 
 <center>
 
-$$V_o = \frac {2}{2\pi} \int_{\alpha}^{\pi} V_{m}sinwt ~ dwt = \frac {2V_{m}}{2\pi}\bigg[- cos\omega t \bigg]_{\alpha}^{\pi} = \frac {V_{m}}{\pi}(1 + cos\alpha).......(5)$$
+$$V_o = \frac {2}{2\pi} \int_{\alpha}^{\pi} V_{m}sinwt ~ dwt = \frac {2V_m}{2\pi}\big[-cos\omega t \big]_{\alpha}^{\pi} = \frac {V_m}{\pi}(1 + cos\alpha).......(5)$$
 
 </center>
 
@@ -161,7 +161,7 @@ The average and rms of bridge output voltage are,<br>
 
 <center>
 
-$$V_o = \frac {2}{2\pi} \int_{\alpha}^{\pi} V_{m} ~ sinwt ~ dwt = \frac {2V_{m}}{2\pi}\bigg[- cos\omega t \bigg]_{\alpha}^{\pi} = \frac {V_{m}}{\pi}(1 + cos\alpha) .......(9)$$
+$$V_o = \frac {2}{2\pi} \int_{\alpha}^{\pi} V_{m} ~ sinwt ~ dwt = \frac {2V_m}{2\pi}\big[-cos\omega t \big]_{\alpha}^{\pi} = \frac {V_m}{\pi}(1 + cos\alpha).......(9)$$
 
 </center>
 
